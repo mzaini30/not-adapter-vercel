@@ -7,7 +7,7 @@ Adapter for Svelte apps that creates a Vercel app, using a function for dynamic 
 ## Usage
 
 ```sh
-npm install --save-dev not-adapter-vercel
+npm install --save-dev hack-adapter-vercel
 ```
 
 Then in your `svelte.config.js`:
@@ -15,7 +15,7 @@ Then in your `svelte.config.js`:
 ```js
 module.exports = {
   ...
-	adapter: 'not-adapter-vercel'
+	adapter: 'hack-adapter-vercel'
 };
 ```
 
