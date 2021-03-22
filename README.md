@@ -1,0 +1,1 @@
+# not-adapter-vercel
